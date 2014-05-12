@@ -3,10 +3,11 @@
 namespace Foiki\Language;
 
 /**
- * A simple mutli-language class
- *
- * @version 1.0.0
+ * A simple multi-language class
+ * 
  * @author Jonatan Karlsson
+ * @license MIT
+ * @version 1.0.0
  *
  **/
 class CLanguage
@@ -29,7 +30,7 @@ class CLanguage
     }
 
     /**
-     * Gets the value based on $key
+     * Gets the paths based on $key
      *
      * @param  $key
      *
@@ -48,6 +49,7 @@ class CLanguage
 
     /**
      * Gets the language sat
+     * 
      * @return $lang
      */
     public function getLang() 
@@ -60,6 +62,7 @@ class CLanguage
 
     /**
      * Sets the language
+     * 
      * @param string $lang
      */
     public function setLang($lang)
@@ -88,8 +91,9 @@ class CLanguage
     }
 
     /**
-     * gets the navbar
-     * @return Array with for the navbarconfig
+     * Gets the navbar
+     * 
+     * @return Array with for the navbar configure
      */
     public function getNavbar() 
     {
@@ -101,9 +105,9 @@ class CLanguage
     }
 
     /**
-     *  Gets metaname content
+     *  Gets meta name content
      * 
-     *  @param $key the metaname
+     *  @param $key the meta name
      *
      *  @return Content based on $key
      */
