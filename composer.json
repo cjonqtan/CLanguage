@@ -2,7 +2,7 @@
    "name": "foikila/language",
     "type": "library",
     "description": "A  simple multi-language class",
-    "keywords": ["flash", "mvc", "anax", "foiki", "foikila", "language", "multi-language", "php"],
+    "keywords": ["mvc", "anax", "foiki", "foikila", "language", "multi-language", "php"],
     "homepage": "http://www.jonatankarlsson.se",
     "license": "MIT",
     "authors": [
