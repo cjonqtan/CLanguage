@@ -1,4 +1,5 @@
 <?php
+
 return [
     /**
      * Default settings.
@@ -6,7 +7,7 @@ return [
      */
     'default' => [
         'lang' => 'sv',
-        'navbar' => ANAX_APP_PATH . 'config/navbar.php',
+        'navbar' => ANAX_APP_PATH . 'content/navbar.php',
         'about' => ANAX_APP_PATH . 'content/about.md',
         'keywords' => 'Default keywords',
         'description' => 'Default description',
