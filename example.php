@@ -1,4 +1,8 @@
 <?php
+/**
+ * A example file based on anax-mvc
+ */ 
+
 // Creates the $di and $app-object
 require __DIR__.'/config.php';
 
