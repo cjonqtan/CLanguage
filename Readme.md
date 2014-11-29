@@ -2,7 +2,7 @@
 CLanguage   
 ========= 
 
-[![Build Status](https://travis-ci.org/cjonqtan/CLanguage.svg?branch=master)](https://travis-ci.org/cjonqtan/CLanguage)
+[![Build Status](https://travis-ci.org/foikila/CLanguage.svg?branch=master)](https://travis-ci.org/foikila/CLanguage)
 [![Code Coverage](https://scrutinizer-ci.com/g/cjonqtan/CLanguage/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/cjonqtan/CLanguage/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/cjonqtan/CLanguage/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/cjonqtan/CLanguage/?branch=master)
 <br>
